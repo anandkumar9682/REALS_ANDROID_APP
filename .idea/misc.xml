@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Eulerslab/Desktop/Complete/New folder/Meme App/app/src/main/res/layout/layout_video_views.xml" value="0.1" />
+        <entry key="..\:/Users/Hello/Desktop/Meme App/app/src/main/res/drawable/close.xml" value="0.1" />
+        <entry key="..\:/Users/Hello/Desktop/Meme App/app/src/main/res/drawable/comment.xml" value="0.1" />
+        <entry key="..\:/Users/Hello/Desktop/Meme App/app/src/main/res/drawable/layout_user_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Hello/Desktop/Meme App/app/src/main/res/drawable/oval_border_for_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Hello/Desktop/Meme App/app/src/main/res/drawable/shap_user_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Hello/Desktop/Meme App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Hello/Desktop/Meme App/app/src/main/res/layout/layout_user_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Hello/Desktop/Meme App/app/src/main/res/layout/layout_video_views.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
